@@ -1,13 +1,13 @@
-package com.mainapp.mo2.model;
+package com.mainapp.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@Data
+
 @AllArgsConstructor
 @NoArgsConstructor
-public class Person {
+public class Person extends BaseEntity{
     private String firstName;
     private String lastName;
 
