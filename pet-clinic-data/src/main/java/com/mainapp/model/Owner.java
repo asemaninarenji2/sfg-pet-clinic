@@ -1,4 +1,4 @@
-package com.mainapp.mo2.model;
+package com.mainapp.model;
 
 public class Owner extends Person{
 }

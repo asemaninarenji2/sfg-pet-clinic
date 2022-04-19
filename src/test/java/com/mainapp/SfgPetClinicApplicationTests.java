@@ -1,4 +1,4 @@
-package com.mainapp.mo2;
+package com.mainapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
